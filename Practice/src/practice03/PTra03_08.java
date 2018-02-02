@@ -35,6 +35,23 @@ public class PTra03_08 {
 		 *
 		 * ※ プログラムは何行書いても良いです
 		 */
+		if(num == 1){
+			int or = money - 150;
+			System.out.println(or);
+
+		}else if(num == 2)	{
+			int ap = money - 160;
+			System.out.println(ap);
+
+		}else if(num == 3) {
+			int co = money - 200;
+			System.out.println(co);
+
+		}else {
+			System.out.println("1-3を選択してください");
+
+		}
+
 
 	}
 }
