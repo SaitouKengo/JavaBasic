@@ -22,6 +22,18 @@ public class PTra01_07 {
 		// ★ それぞれの型変数に、値を代入してください
 		// ※ 値は、好きな数字を入力してください
 
+		bo = true;
+		by = 2;
+		s = 3;
+		c = 'あ';
+		i = 555;
+		l = 6999999;
+		f = 7f;
+		d = 1.1;
+
+
+
+
 
 
 
@@ -31,6 +43,15 @@ public class PTra01_07 {
 
 
 		// ★ それぞれの変数の中身を出力してください
+		System.out.println(bo);
+		System.out.println(by);
+		System.out.println(s);
+		System.out.println(c);
+		System.out.println(i);
+		System.out.println(l);
+		System.out.println(f);
+		System.out.println(d);
+
 
 
 
