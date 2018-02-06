@@ -14,6 +14,7 @@ public class PTra08_06 {
 		dispValue(319.569);
 		dispValue('島');
 
+
 	}
 
 	/*
@@ -30,11 +31,29 @@ public class PTra08_06 {
 	}
 
 	// ★ dispValueを引数intでオーバーロードしてください。処理は同じ
+	    public static void dispValue(int mes) {
+	    	System.out.println("「" + mes + "」");
+
+
+	    }
 
 
 	// ★ dispValueを引数doubleでオーバーロードしてください。処理は同じ
+		public static void dispValue(double mes) {
+			System.out.println("「" + mes + "」");
+
+
+		}
 
 
 	// ★ dispValueを引数charでオーバーロードしてください。処理は同じ
+		public static void dispValue(char mes) {
+			System.out.println("「" + mes + "」");
+
+
+		}
 
 }
+
+
+
