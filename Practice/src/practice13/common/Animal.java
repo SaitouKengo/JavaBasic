@@ -11,7 +11,7 @@ package practice13.common;
  * @author rhizome
  *
  */
-public class Animal {
+public class Animal{
 	/** 名前 */
 	private String name;
 
