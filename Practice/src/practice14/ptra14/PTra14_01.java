@@ -23,4 +23,5 @@ public class PTra14_01 {
 	 * 		高度な継承
 	 */
 
+
 }

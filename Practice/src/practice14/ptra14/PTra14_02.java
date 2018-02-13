@@ -20,4 +20,5 @@ public class PTra14_02 {
 	 * 		SQL応用
 	 */
 
+
 }
