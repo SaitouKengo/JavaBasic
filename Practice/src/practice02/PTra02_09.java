@@ -14,6 +14,8 @@ public class PTra02_09 {
 		// ★ 変数quadrangleに、四角形の面積を代入してください
 		int quadrangle = length * height;
 
+		//doubleを使っていないので不正確
+
 
 		// ★ 変数quadrangleを出力してください
 		System.out.println(quadrangle);
@@ -21,6 +23,8 @@ public class PTra02_09 {
 
 		// ★ 変数triangleに、三角形の面積を代入してください
 		int triangle = length * height / 2;
+
+		//doubleを使っていないので不正確
 
 
 		// ★ 変数triangleを出力してください

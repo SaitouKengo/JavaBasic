@@ -59,12 +59,7 @@ public class PTra13_09 {
 		System.out.println(empoyee.departmentNm);
 		System.out.println(empoyee.departmentCnt);
 
-
-
-
 		}
-
-
 
 	}
 }

@@ -24,5 +24,7 @@ public class PTra02_10 {
 		int mon = moneyInHand - (coffee * 2 + snack);
 		System.out.println("所持金" + mon + "円");
 
+		//税金の計算をしていない
+
 	}
 }
